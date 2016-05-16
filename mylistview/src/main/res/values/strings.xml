@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="text">我是头部区域</string>
+    <string name="textRx">我是头部区域混合图</string>
+</resources>
